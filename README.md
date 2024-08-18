@@ -1,4 +1,4 @@
-<img align="left" src="https://thaddeus-segura.com/wp-content/uploads/2020/07/f16d4dd5aa05c3754fd0b359d487cce64f6252730a7cc435f3f37a13e53e2e59.0.png" alt="Heyy" width="15%" />
+<img align="left" src="https://github.com/user-attachments/assets/860f3d60-ea1d-424b-84c8-c1876f403586" alt="Heyy" width="15%" />
 
 ### Hi There, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">   Glad to see you here!
 
@@ -14,11 +14,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" />
 
 
-
-<img align="right" alt="GIF" src="https://gifimage.net/wp-content/uploads/2018/06/trabajo-gif-4.gif" width="360"/>
-
-
-### :eyes: No. of Profile Views,
+### No. of Profile Views,
 <img alt="Viewers" src="https://komarev.com/ghpvc/?username=hirenpatel1903&color=green&style=flat-square"/>
 <!-- <img alt="Viewers" src="https://komarev.com/ghpvc/?username=hirenpatel1903&color=lightgrey&style=plastic&abbreviated=true"/> --!>
 <!-- Place this tag where you want the button to render. -->
